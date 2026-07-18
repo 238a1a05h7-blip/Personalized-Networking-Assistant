@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Networking Assistant",
+  "description": "An AI-powered networking assistant that tracks profiles, event contexts, networking sessions, logs, and verifies facts with Wikipedia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
